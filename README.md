@@ -71,7 +71,7 @@
 - [ ] Les fonctions de expression régulière
 - [ ] Les fonctions de mathématiques
 
-#Projet
+##Projet
 - [ ] Créer un site portfolio
 - [ ] Créer un site de reservation de billet pour evenements festive
 - [ ] Créer un site e-commerce

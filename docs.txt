@@ -1,0 +1,3 @@
+ git remote add origin + le lien du repos creer au meme nom que le projet si
+  verifier avec git remote -v 
+ git push -u origin master 
