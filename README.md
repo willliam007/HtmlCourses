@@ -48,3 +48,34 @@
 - [ ] Les opérateurs de sélecteur de attribut CSS
 - [ ] Les opérateurs de sélecteur de classe CSS
 - [ ] Les opérateurs de sélecteur d'ID CSS
+## Les bases du JavaScript
+- [ ] Les variables
+- [ ] Les opérateurs
+- [ ] Les fonctions
+- [ ] Les conditions
+- [ ] Les boucles
+- [ ] Les tableaux
+- [ ] Les objets
+- [ ] Les dates
+- [ ] Les expressions régulières
+- [ ] Les fonctions mathématiques
+- [ ] Les fonctions de chaîne
+- [ ] Les fonctions de tableau
+- [ ] Les fonctions d'objet
+- [ ] Les fonctions de date
+- [ ] Les fonctions de expression régulière
+- [ ] Les fonctions de mathématiques
+- [ ] Les fonctions de chaîne
+- [ ] Les fonctions de tableau
+- [ ] Les fonctions de date
+- [ ] Les fonctions de expression régulière
+- [ ] Les fonctions de mathématiques
+
+#Projet
+- [ ] Créer un site portfolio
+- [ ] Créer un site de reservation de billet pour evenements festive
+- [ ] Créer un site e-commerce
+- [ ] Créer un site de blog
+- [ ] Créer un site de contact
+- [ ] Créer un site de réservation
+
