@@ -658,3 +658,17 @@
 
 // ---------------- ES6 Modules ---------------
 
+export class Programer {
+    constructor(name, language) {
+        this.name = name;
+        this.language = language;
+    }
+
+    code() {
+        console.log(`${this.name} is programming in ${this.language}.`);
+
+    }
+}
+
+// export default Programer;
+
